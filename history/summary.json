@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4arn.se.ico",
     "slug": "h4arn-se",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.28%",
+    "uptimeDay": "95.72%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
     "time": 461,
     "timeDay": 375,
     "timeWeek": 461,
     "timeMonth": 461,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2024-09-28": 1
+      "2024-09-28": 62
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.h4arn.se.ico",
     "slug": "authelia",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.28%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
     "time": 451,
     "timeDay": 383,
     "timeWeek": 451,
     "timeMonth": 451,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2024-09-28": 1
+      "2024-09-28": 61
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://nextcloud.h4arn.se",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.h4arn.se.ico",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1260,
-    "timeDay": 1685,
-    "timeWeek": 1260,
-    "timeMonth": 1260,
-    "timeYear": 1260,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "95.80%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
+    "time": 2347,
+    "timeDay": 7448,
+    "timeWeek": 2347,
+    "timeMonth": 2347,
+    "timeYear": 2347,
     "dailyMinutesDown": {
-      "2024-09-28": 0
+      "2024-09-28": 61
     }
   }
 ]
