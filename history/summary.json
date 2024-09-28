@@ -4,43 +4,47 @@
     "url": "https://h4arn.se",
     "icon": "https://icons.duckduckgo.com/ip3/h4arn.se.ico",
     "slug": "h4arn-se",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 461,
     "timeDay": 375,
     "timeWeek": 461,
     "timeMonth": 461,
     "timeYear": 461,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-28": 1
+    }
   },
   {
     "name": "authelia",
     "url": "https://auth.h4arn.se",
     "icon": "https://icons.duckduckgo.com/ip3/auth.h4arn.se.ico",
     "slug": "authelia",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 451,
     "timeDay": 383,
     "timeWeek": 451,
     "timeMonth": 451,
     "timeYear": 451,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-28": 1
+    }
   },
   {
     "name": "nextcloud",
     "url": "https://nextcloud.h4arn.se",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.h4arn.se.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 1260,
     "timeMonth": 1260,
     "timeYear": 1260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-28": 0
+    }
   }
 ]
