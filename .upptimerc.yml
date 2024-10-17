@@ -9,6 +9,10 @@ sites:
     url: https://auth.h4arn.se
   - name: nextcloud
     url: https://nextcloud.h4arn.se
+  - name: immich
+    url: https://immich.h4arn.se
+  - name: jellyfin
+    url: https://jellyfin.h4arn.se
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
