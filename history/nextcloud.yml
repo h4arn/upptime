@@ -1,7 +1,7 @@
 url: https://nextcloud.h4arn.se
-status: down
-code: 503
-responseTime: 614
-lastUpdated: 2024-12-12T08:38:23.327Z
+status: up
+code: 200
+responseTime: 1540
+lastUpdated: 2024-12-12T20:37:15.410Z
 startTime: 2024-09-22T18:24:17.944Z
 generator: Upptime <https://github.com/upptime/upptime>
