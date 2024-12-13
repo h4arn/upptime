@@ -1,7 +1,7 @@
 url: https://auth.h4arn.se
-status: down
-code: 502
-responseTime: 440
-lastUpdated: 2024-12-13T11:34:54.014Z
+status: up
+code: 200
+responseTime: 527
+lastUpdated: 2024-12-13T15:19:54.270Z
 startTime: 2024-09-22T18:24:17.218Z
 generator: Upptime <https://github.com/upptime/upptime>
