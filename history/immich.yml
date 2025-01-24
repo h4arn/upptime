@@ -1,7 +1,7 @@
 url: https://immich.h4arn.se
-status: down
-code: 502
-responseTime: 10448
-lastUpdated: 2025-01-24T17:00:30.387Z
+status: up
+code: 200
+responseTime: 2086
+lastUpdated: 2025-01-24T17:31:19.965Z
 startTime: 2024-10-17T15:59:56.782Z
 generator: Upptime <https://github.com/upptime/upptime>
