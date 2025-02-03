@@ -129,12 +129,12 @@
     "url": "https://immich.h4arn.se",
     "icon": "https://icons.duckduckgo.com/ip3/immich.h4arn.se.ico",
     "slug": "immich",
-    "status": "up",
-    "uptime": "96.87%",
-    "uptimeDay": "30.90%",
-    "uptimeWeek": "51.24%",
-    "uptimeMonth": "88.78%",
-    "uptimeYear": "96.87%",
+    "status": "down",
+    "uptime": "96.88%",
+    "uptimeDay": "31.60%",
+    "uptimeWeek": "51.42%",
+    "uptimeMonth": "88.82%",
+    "uptimeYear": "96.88%",
     "time": 7853,
     "timeDay": 8271,
     "timeWeek": 10022,
@@ -146,8 +146,7 @@
       "2025-02-01": 894,
       "2025-01-31": 838,
       "2025-01-30": 894,
-      "2025-01-29": 720,
-      "2025-01-28": 18
+      "2025-01-29": 720
     }
   },
   {
