@@ -1,7 +1,7 @@
 url: https://jellyfin.h4arn.se
-status: down
-code: 502
-responseTime: 3576
-lastUpdated: 2025-12-07T21:16:38.261Z
+status: up
+code: 200
+responseTime: 776
+lastUpdated: 2025-12-07T21:29:03.153Z
 startTime: 2024-10-17T16:01:28.696Z
 generator: Upptime <https://github.com/upptime/upptime>
