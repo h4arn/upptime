@@ -48,22 +48,23 @@
     "url": "https://nextcloud.h4arn.se",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.h4arn.se.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "97.21%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1151,
-    "timeDay": 1067,
-    "timeWeek": 1298,
-    "timeMonth": 1199,
-    "timeYear": 1141,
+    "time": 1150,
+    "timeDay": 801,
+    "timeWeek": 1203,
+    "timeMonth": 1178,
+    "timeYear": 1139,
     "dailyMinutesDown": {
       "2025-08-29": 427,
       "2025-12-04": 39,
       "2026-02-28": 92,
-      "2026-04-21": 44
+      "2026-04-21": 44,
+      "2026-07-19": 0
     }
   },
   {
