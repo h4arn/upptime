@@ -4,20 +4,21 @@
     "url": "https://h4arn.se",
     "icon": "https://icons.duckduckgo.com/ip3/h4arn.se.ico",
     "slug": "h4arn-se",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 487,
+    "time": 488,
     "timeDay": 520,
     "timeWeek": 529,
     "timeMonth": 476,
     "timeYear": 483,
     "dailyMinutesDown": {
       "2026-02-28": 94,
-      "2026-04-21": 45
+      "2026-04-21": 45,
+      "2026-09-29": 0
     }
   },
   {
@@ -48,7 +49,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.h4arn.se.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "95.56%",
+    "uptime": "95.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -56,7 +57,7 @@
     "time": 1140,
     "timeDay": 1418,
     "timeWeek": 1248,
-    "timeMonth": 1163,
+    "timeMonth": 1168,
     "timeYear": 1060,
     "dailyMinutesDown": {
       "2025-12-04": 39,
@@ -115,7 +116,7 @@
     "time": 744,
     "timeDay": 997,
     "timeWeek": 948,
-    "timeMonth": 892,
+    "timeMonth": 896,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2025-10-20": 18,
